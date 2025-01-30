@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
- 
+ <img width=700px src="dev.gif">
 </p align="center">
-<img src="ext.gif">
+
 
 <p align="center">
  
