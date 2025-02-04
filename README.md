@@ -9,7 +9,7 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ritik307/RogerCabralSilva"/> 
+ <img src="https://badges.pufler.dev/visits/RogerCabralSilva/RogerCabralSilva"/> 
  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
  <img src="https://badges.pufler.dev/repos/RogerCabralSilva"/>
  <img src="https://badges.pufler.dev/commits/monthly/RogerCabralSilva" />
