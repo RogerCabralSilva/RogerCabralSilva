@@ -7,14 +7,6 @@
 </p align="center">
 
 
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/RogerCabralSilva/RogerCabralSilva"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/RogerCabralSilva"/>
- <img src="https://badges.pufler.dev/commits/monthly/RogerCabralSilva" />
-
-</p>
 <h1 align="left">
   <div align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=35&left=true&color=00000&vCenter=true&width=500&height=70&duration=4000&lines=Status" />
